@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Simulator</string>
+
+    <string name="cd_simulate">Botão de simulação de partidas</string>
+    <string name="cd_home_team">Imagem do time mandante</string>
+    <string name="txt_versus" translatable="false">x</string>
+    <string name="Amay_team_image">Amay team image</string>
 </resources>
