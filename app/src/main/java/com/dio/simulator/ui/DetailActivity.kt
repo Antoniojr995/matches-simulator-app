@@ -1,10 +1,9 @@
 package com.dio.simulator.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.dio.simulator.databinding.ActivityDetaiBinding
-import com.dio.simulator.databinding.ActivityMainBinding
 import com.dio.simulator.domain.Match
 
 class DetailActivity : AppCompatActivity() {
